@@ -18,3 +18,9 @@ you can post them on youtube or repost them on reddit
 - `python3 main.py`
 
 **enjoy!!**
+
+# Example:
+
+https://youtu.be/FfGnFvmr_no
+
+don't forget to share, like and subscribe! 
